@@ -94,7 +94,7 @@ fun GreetingPreview() {
             a = b
             b = temp
         }
-        return b ==number
+        return b ==number //resultado
     }
 
 
